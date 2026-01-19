@@ -1,3 +1,3 @@
 ## 📊 Dashboard Preview
 
-![E-Commerce Order Delays & Returns Dashboard](Screenshots/Dashboard.png)
+![E-Commerce Order Delays & Returns Dashboard](./Screenshots/Dashboard.png)
