@@ -1,0 +1,8 @@
+Order_Id,Order_Date,Customer_Name,City,State,Product_Name,Category,Seller_Name,Expected_Delivery_Date,Actual_Delivery_Date,Delivery_Delay_Days,Delay_Status,Order_Status,Is_Returned,Return_Reason
+1001,01-01-2024,Amit Sharma,Delhi,Delhi,Wireless Mouse,Electronics,TechWorld,05-01-2024,04-01-2024,-1,On Time,Delivered,No,NULL
+1006,06-01-2024,Amit Sharma,Delhi,Delhi,Running Shoes,Footwear,Sportify,11-01-2024,15-01-2024,4,Delayed,Delivered,Yes,Late delivery
+1002,02-01-2024,Neha Verma,Mumbai,Maharashtra,Running Shoes,Footwear,Sportify,06-01-2024,08-01-2024,2,Delayed,Delivered,Yes,Size Issue
+1007,07-01-2024,Neha Verma,Mumbai,Maharashtra,Wireless Mouse,Electronics,TechWorld,12-01-2024,12-01-2024,0,On Time,Delivered,No,NULL
+1003,03-01-2024,Rahul Singh,Bengaluru,Karnataka,Bluetooth Speaker,Electronics,SoundMax,07-01-2024,07-01-2024,0,On Time,Delivered,No,NULL
+1004,04-01-2024,Pooja Mehta,Ahmedabad,Gujarat,Smartphone Case,Accessories,MobileHub,09-01-2024,11-01-2024,2,Delayed,Delivered,Yes,Product damaged
+1005,05-01-2024,Rohan Das,Kolkata,West Bengal,Backpack,Accessories,UrbanCarry,10-01-2024,NULL,NULL,On Time,Cancelled,No,NULL
