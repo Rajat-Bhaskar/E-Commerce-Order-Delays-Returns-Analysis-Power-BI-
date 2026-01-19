@@ -117,12 +117,13 @@ E-Commerce-Order-Delays-Returns-Analysis/
 │
 ├── Data/
 │ └── Final Dataset For Analysis.csv
-│
-├── Main File.sql
+│ └── README.md
 │ 
 ├── Screenshots/
 │ └── Dashboard.png
+│ └── README.md
 │
+├── Main File.sql
 ├── Delay Analysis.pbix
 └── README.md
 ```
