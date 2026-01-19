@@ -116,15 +116,14 @@ The layout prioritizes **quick decision-making**.
 E-Commerce-Order-Delays-Returns-Analysis/
 │
 ├── Data/
-│ └── order_delay_returns_dataset.csv
+│ └── Final Dataset For Analysis.csv
 │
-├── SQL/
-│ └── order_delay_analysis.sql
-│
+├── Main File.sql
+│ 
 ├── Screenshots/
 │ └── Dashboard.png
 │
-├── E-Commerce_Order_Delay_Returns.pbix
+├── Delay Analysis.pbix
 └── README.md
 ```
 
